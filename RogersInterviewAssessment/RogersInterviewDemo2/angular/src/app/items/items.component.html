@@ -1,0 +1,18 @@
+<!-- Step 5, creating an HTML template similar to the one provided, displays data retrieved and modified from Contentful -->
+<div *ngFor="let entry of testData">
+  <div class="card" style="width: 40rem; margin-top: 1%; margin-left: 2%;">
+    <div class="card-body">
+      <h3 class="card-title">
+        <a [href]="entry.url">
+          {{ entry.title }}
+        </a>
+        <span *ngFor="let category of entry.category | keyvalue">
+          <div class="badge badge-secondary" style="margin-left: 1%;">
+            {{ category.value }}
+          </div>
+        </span>
+      </h3>
+      <p> {{ entry.description }} </p>
+    </div>
+  </div>
+</div>

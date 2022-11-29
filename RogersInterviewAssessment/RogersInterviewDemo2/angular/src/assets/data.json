@@ -1,0 +1,997 @@
+[
+  {
+      "__typename": "PageTemplate",
+      "url": "/contact/error/gbm-unsupported",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Contact Us - Google Business Chat - Unsupported",
+          "description": "Your device is not supported. Please use an android device or navigate back to Contact Us page to select a different contact option.",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/contact/error/abm-unsupported",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Contact Us - Google Business Messages - Unsupported",
+          "description": "Your device is not supported. Please use an Apple device or navigate back to Contact Us page to select a different contact option.",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/internet/ignite-wifi-satisfaction-guarantee",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ignite WiFi Satisfaction Guarantee FAQs - Rogers",
+          "description": "Here’s everything you need to know about our commitment to delivering strong, secure home WiFi you can depend on.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-ignite-wifi-gateway-gen3",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide – Ignite WiFi Gateway Modem (Gen 3) – XB8 - Rogers",
+          "description": "It’s easy to setup the Ignite WiFi Gateway modem (Gen 3) on your own!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/holiday-previews",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Wrapped In Red Previews on IgniteTV – Netflix, Prime Video, Disney+ and More - Rogers",
+          "description": "Stream even more great content on Ignite TV with Netflix, Prime Video, Disney+ and other popular streaming services. Plus, get access to thousands of free shows and movies with Tubi.tv, Filmrise, Fawesome TV, Zone-ify Vevo and Xite!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/tv/easy-setup-guide-Nextbox-4K",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide - Nextbox 4K",
+          "description": "This installation guide outlines the easy process to set up your cable.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/iptv/easy-setup-guide-ignite-streaming",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Self-Install Guide – Ignite Streaming - Rogers",
+          "description": "Learn how to set up your Ignite Streaming Box.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/home-security/easy-setup-guide-smart-hub",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Smart Hub Easy Installation Guide - Rogers",
+          "description": "Want to set up the Smart Hub for your Smart Home Monitoring system? Follow these easy steps and you’re all set.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/home-phone/easy-setup-guide-ignite-home-phone",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide – Ignite Home Phone - Rogers",
+          "description": "Want to set up your Ignite Home Phone service? Follow these easy steps and you’re all set.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-cgn3-wifi-modem",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide - CGN3 WiFi Modem",
+          "description": "This installation guide outlines the easy steps to set up your internet modem and home WiFi.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-ignite-wifi-gateway-modem",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Self-Install Guide – Ignite WiFi Gateway Modem",
+          "description": "Learn how to set up your Ignite WiFi Gateway modem and home WiFi network.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-cgn3amr-wifi-modem",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide - CGN3AMR WiFi Modem",
+          "description": "This installation guide outlines the easy steps to set up your internet modem and home WiFi.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-gigabit-wifi-modem",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide - Gigabit WiFi Modem",
+          "description": "This installation guide outlines the easy steps to set up your internet modem and home WiFi.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-ignite-wifi-gateway-gen2",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide – Ignite WiFi Gateway Modem (Gen 2) – XB7 - Rogers",
+          "description": "It’s easy to setup the Ignite WiFi Gateway modem (Gen 2) on your own!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/easy-setup-guide-ignite-wifi-pod",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Easy Setup Guide – Ignite WiFi Pod - Rogers",
+          "description": "Ignite WiFi Pods extend the range of your WiFi signal to a desired location. Here’s how to set up Ignite WiFi Pods using the Ignite WiFi Hub app.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/mobility/easy-setup-guide-zte-mf28b",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "ZTE MF28B LTE Rocket Hub - Quick Start Guide - Rogers",
+          "description": "Do you have this 4G LTE hub? Then check out our helpful user manual and quick start guide for this router.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/promotions/customer-wireless-offer",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Wireless Products & Services – Contact Us - Rogers",
+          "description": "Wireless Products & Services – Contact Us ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/internet/ignite-wifi-pods",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "FAQs about Ignite WiFi Pods - Rogers",
+          "description": "Learn more about Ignite WiFi Pods from Rogers, including how they work, how to install them and what to expect.  ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/30-day-satisfaction-guarantee-program-details",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "30-Day Satisfaction Guarantee Program Details – Rogers",
+          "description": "30-Day Satisfaction Guarantee Program Details – Rogers",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/billing-accounts/30-day-satisfaction-guarantee",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "30-Day Satisfaction Guarantee - Rogers",
+          "description": "Enjoy your new service or get a refund on your set-up and monthly fees if you cancel within the first 30 days.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/promotions/black-friday",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Black Friday Sale – iPhone, Samsung, and Google Phone Deals - Rogers",
+          "description": "It’s finally here! Check out these amazing deals on iPhone, Samsung, phone plans and more for Black Friday from Rogers. Plus, don’t forget Cyber Monday!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/mobility/family-phones",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Parent-friendly plans for juniors - Rogers",
+          "description": "Keep the whole family connected with affordable parent-friendly juniors and student phone plans with lots of data options like location tracking, messaging and more. ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/promotions/holiday",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Holiday Deals on Internet, TV and Bundles - Rogers ",
+          "description": "Unwrap our biggest deals this holiday season. Shop internet packages and bundles starting at just $60/mo!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/promotions/tv",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Cable Promos - The Best TV and Cable Deals - Rogers",
+          "description": "Our best promotions on the hottest channels like HBO or the latest movies and TV theme packs – even free previews!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/sandbox/employees/assist",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "👍 Sandbox Page (for DEVs) - Rogers",
+          "description": "Sandbox Page (for DEVs) - To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles And by opposing end them. ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/promotions/cyber-monday",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Cyber Monday Sale – iPhone, Samsung, and Google Phone Deals - Rogers",
+          "description": "It’s finally here! Check out these amazing deals on iPhone, Samsung, phone plans and more for Cyber Monday from Rogers. Plus, don’t forget Boxing Day!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/promotions/boxing-day",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Boxing Day Phone Sale – Great deals on iPhone, Samsung, Google | Rogers",
+          "description": "Christmas may be over, but there are more offers to unwrap for Boxing Day! Check out great phone deals on iPhone, Google, Samsung and more from Rogers.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/promotions/holiday-deals",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Holiday Phone Sale – Great deals on iPhone, Samsung, Google - Rogers",
+          "description": "Unwrap the best phone holiday deals of the year with the Wrapped in Red sale from Rogers! Check out great offers on iPhones, Samsung Galaxy phones, and phone plans.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/internet/ignite-bundle-packages",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ignite TV and Internet Bundles - Rogers  ",
+          "description": "Explore Rogers Ignite bundles - IPTV packages that will change the way you experience entertainment.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-disaster-recovery-as-a-service-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Disaster Recovery as a Service - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Disaster Recovery as a Service",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-managed-cloud-connect-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Managed Cloud Connect Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Managed Cloud Connect Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-managed-cloud-backup-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Managed Cloud Backup Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Managed Cloud Backup Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-control-centre-legacy-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Control Centre Services (Legacy) - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Control Centre Services (Legacy)",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-dedicated-backup-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Dedicated Backup Service - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Dedicated Backup Service",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-connectivity-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "IOT Connectivity - Rogers",
+          "description": "Learn more about these terms & conditions or policy: IOT Connectivity",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-fleet-complete-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Fleet Complete - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Fleet Complete",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-control-centre-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Control Centre Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Control Centre Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-titan-gps-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Titan GPS Solution - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Titan GPS Solution",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-smart-surveillance-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Smart Surveillance - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Smart Surveillance",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-mobilextra-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "MobileXtra - Rogers",
+          "description": "Learn more about these terms & conditions or policy: MobileXtra",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-smart-parking-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Smart Parking Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Smart Parking Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-cloud-backup-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Cloud Backup Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Cloud Backup Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-managed-private-cloud-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Managed Private Cloud Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Managed Private Cloud Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-colocation-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Colocation Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Colocation Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-ethernet-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ethernet - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Ethernet",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-software-as-a-service-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Software as a Service - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Software as a Service",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-resumption-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Business Resumption - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Business Resumption",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-managed-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Managed Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Managed Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-virtual-private-cloud-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Virtual Private Cloud - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Virtual Private Cloud",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-veeam-cloud-connect-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Veeam Cloud Connect - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Veeam Cloud Connect",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-object-store-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Object Store - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Object Store",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/mobility/speed-pass",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "High-speed Data Plans - Speed Pass | Rogers",
+          "description": "Never worry about low speeds again. Learn more about adding high-speed data without changing your plan with Rogers Speed Pass. ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/advanced-security-faqs",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "FAQs about Advanced Security - Ignite WiFi Hub",
+          "description": "Learn more about the Advanced Security feature in Ignite WiFi Hub, which provides added protection against online threats for your connected home.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/billing-accounts/how-you-can-self-serve-online",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "How you can self-serve online - Rogers",
+          "description": "You can easily make changes to your account and services online using MyRogers!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/billing-accounts/multi-factor-authentication-faq",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Sign in securely with multi-factor authentication - Rogers",
+          "description": "Keeping your account secure is our priority. Find out how enabling multi-factor authentication  in MyRogers keeps your account safe. ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-wireless-business-internet-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Wireless Business Internet - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Wireless Business Internet | Rogers",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-rogers-business-fibre-internet-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Business Fibre Internet - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Business Fibre Internet",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-samsung-knox-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Samsung Knox - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Samsung Knox",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-business-cable-internet-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Business Cable Internet - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Business Cable Internet",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-rogers-internet-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Internet Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Internet Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/promotions/diwali",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Diwali Promotions – Rogers",
+          "description": "Get our hottest deals on phones and plans.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-managed-firewall-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Managed Firewall Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Managed Firewall Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-ginger-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ginger Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Ginger Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-rogers-business-phone-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Business Phone - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Business Phone",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-sip-voice-for-microsoft-teams-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "SIP Voice for Microsoft Teams - Rogers",
+          "description": "Learn more about these terms & conditions or policy: SIP Voice for Microsoft Teams",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-sip-trunking-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "SIP Trunking Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: SIP Trunking Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-unison-services-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Unison Services - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Unison Services",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-optical-wavelength-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Optical Wavelength - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Optical Wavelength",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/mobility/wireless-promo-faqs-18-months",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "How to Redeem Your Exclusive18 Months Offer - FAQs - Rogers",
+          "description": "If you received a text message or email about an exclusive 18 month data bonus offer, here’s what you need to know about it, including steps to redeem it, restrictions and more.",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/mobility/esim-apple",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "eSIM on Device Setup for  iPhone XR: iPhone XS and iPhone XS Max or later - Rogers",
+          "description": "eSIM on Device Setup for  iPhone XR: iPhone XS and iPhone XS Max or later.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/troubleshooting-fibre-to-the-home-connectivity-issues",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Unable to connect to your fibre-to-the-home service? These steps can help - Rogers",
+          "description": "Learn what you can do when you’re having fibre-to-the-home connectivity issues",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/what-is-fibre-to-the-home",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "FAQs about fibre-to-the-home (FTTH) - Rogers",
+          "description": "Learn all you need to know about Rogers fibre-to-the-home (FTTH).",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/coho/home-monitoring/why",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ignite Home Security - Self-Surveillance and Pro Monitoring | Rogers",
+          "description": "Protect and enjoy what matters most with a smart home security system that’s a perfect fit for your household.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/coho/home-monitoring/self-protect",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ignite Self Protect – Smart Self-Surveillance - Rogers",
+          "description": "The Ignite Self Protect package delivers ultimate peace of mind and control for a seamlessly connected and secure home. ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-shared-unlimited-data-plans-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Shared Unlimited Data Plans - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Shared Unlimited Data Plans Terms",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-rogers-business-wireless-plan-v2-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Rogers Business Wireless Plan V2 - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Rogers Business Wireless Plan V2 Terms",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-mobile-internet-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Mobile Internet - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Mobile Internet Terms",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-data-only-price-plans-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Data Only Share Plans - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Business Data Only Share Plans Terms",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/terms/business-advantage-mobility-terms",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Advantage Mobility - Rogers",
+          "description": "Learn more about these terms & conditions or policy: Business Advantage Mobility Terms",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/mobility/google",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Get the best Google has to offer - Rogers",
+          "description": "Introducing the next lineup of devices from Google. From phones to home entertainment, Google has everything you need all under one ecosystem.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/mobility/roaming",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "US and international roaming and travel options – Roam Like Home - Rogers",
+          "description": "Travelling to the US or internationally? Enjoy data roaming worry-free with Roam Like Home. Check out roaming rates for US and international travel from Rogers.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/internet/faqs-about-ignite-internet-8-gigabit",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "FAQs about Ignite Internet 8 Gigabit - Rogers",
+          "description": "Learn all you need to know about Rogers Ignite Internet 8 Gigabit. ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/mobility/apple",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Experience more with your next device from Apple - Rogers",
+          "description": "Choose from iPhone, iPad & Apple Watch for $0 down & 0% interest plus experience Canada’s best 5G network & get the lowest monthly price with Upfront Edge. ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/ignite-internet-8-gigabit",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Ignite Internet 8 Gigabit - Canada’s Fastest Internet - Rogers",
+          "description": "Fibre-powered Ignite Internet with download and upload speeds up to 8 gigabits per second, the fastest speeds available. From $399.99/month.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/internet/fibre-powered-internet",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Fibre-Powered Internet - Rogers",
+          "description": "Learn more about Roger’s Fibre-Powered Internet and how to troubleshoot issues when you have them.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/coho/global",
+      "seo": null
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/iptv/how-to-program-the-skip-feature-on-the-ignite-voice-remote",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "How to Program the Skip Feature on the Ignite Voice Remote - Ignite Entertainment",
+          "description": "Learn how to program and use the skip feature on the Ignite Voice Remote, which lets you skip forward or backwards by 30 seconds or 5 minutes.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/internet/fibre-is-here",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Get Rogers Fibre Internet & TV – Powerful Wifi, Ultimate Entertainment and More - Rogers",
+          "description": "Rogers Ignite Internet and TV is in your community. Get Rogers fibre-powered Internet and TV for speeds up to 2.5 Gbps, the most advanced Wifi security and the ultimate entertainment experience.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/mobile-internet",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your mobile internet service - Rogers",
+          "description": "Have a question about setting up your mobile internet service or your WiFi? Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/plan-device-upgrade-financing",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your service: plan, device upgrade or financing - Rogers",
+          "description": "Have a question about your plan, phone upgrade or financing? Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/data-talk-text",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your data, talk, and text services - Rogers",
+          "description": "From transferring your phone number to our network to getting the most out of your calling features, Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/troubleshooting",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with troubleshooting your wireless phone and more - Rogers",
+          "description": "From dropped calls to checking your network status, Rogers has the answers to your troubleshooting questions. Check out our helpful support pages today! ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/lost-repair-warranty",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your phone: lost, repair and warranty - Rogers",
+          "description": "Lost your phone or unsure if it’s still under warranty? Rogers has the answers to your wireless questions. Check out our helpful support pages today! ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/voicemail",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your mobile Voicemail - Rogers",
+          "description": "From setting up your Voicemail to using Premium Voicemail-to-Text, Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/sim-device-support",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with your SIM card, network, or device - Rogers",
+          "description": "From inserting your new SIM card to using your phone as a hotspot, Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/support/mobility/travel-long-distance",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Help with travel, long distance calls and texts, and roaming - Rogers",
+          "description": "Whether you’re travelling or making long-distance calls, Rogers has the answers to your questions. Check out our helpful support pages today! ",
+          "isNoIndex": true
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/home/iptv/apple-tv-plus",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Apple TV+ on Ignite Entertainment - Rogers",
+          "description": "Get Apple TV+ on us for 3 months when you sign up with any Ignite Bundle! ",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/iptv/apple-tv-faqs",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "FAQs about Apple TV+ on Ignite Entertainment - Rogers",
+          "description": "Learn more about Apple TV+ on Ignite TV or Ignite Streaming.",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/back-to-school-previews",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "Back-to-School Previews on IgniteTV – Netflix, Prime Video, Disney+ and More - Rogers",
+          "description": "Stream even more great content on Ignite TV with Netflix, Prime Video, Disney+ and other popular streaming services. Plus, get access to thousands of free shows and movies with Tubi.tv, Filmrise, Fawesome TV, Zone-ify Vevo and Xite!",
+          "isNoIndex": false
+      }
+  },
+  {
+      "__typename": "PageTemplate",
+      "url": "/support/ceo-letter",
+      "seo": {
+          "__typename": "Metadata",
+          "title": "An Update from Rogers President and CEO",
+          "description": "Our network outage last Friday was unacceptable. Simply put, we have not kept our promise to provide the most reliable network in the country.",
+          "isNoIndex": false
+      }
+  }
+]
